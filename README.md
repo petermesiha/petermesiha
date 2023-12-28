@@ -5,16 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=petermesiha" alt="petermesiha" /></a> </p>
 
-
-<p> 🔭 I’m currently working on **parqera**<br>👯 I’m looking to collaborate on **fun projects**<br>🤝 I’m looking for help with **some figma designs**<br>🌱 I’m currently learning **flutter/dart**<br>💬 Ask me about **anything**<br>⚡ Fun fact **I'm not extroverted** </p>
-
 - 🔭 I’m currently working on **parqera**
+
+- 👯 I’m looking to collaborate on **fun projects**
+
+- 🤝 I’m looking for help with **some figma designs**
 
 - 🌱 I’m currently learning **flutter/dart**
 
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **Fork My Repo**
+
+- ⚡ Fun fact **I'm not extroverted**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
